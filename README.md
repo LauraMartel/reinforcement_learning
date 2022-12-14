@@ -1,4 +1,4 @@
-# Data analysis
+# Reinforcement Learning
 - The project: reinforcement_learning
 - Description: Generative Dungeon Maps
 - Data Source: Imki

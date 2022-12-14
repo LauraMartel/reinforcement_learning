@@ -23,6 +23,8 @@
 
     The agent finds the shortest way passng by the treasure down to the exit.
 
+    The visualisation is done with pygame.
+
 - All the information that need to be mentioned:
     Each line of code is commented in the main document.
 
